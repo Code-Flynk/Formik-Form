@@ -1,0 +1,1 @@
+This is an excercise to use implement a Formik form and note consequantial errors through the operation of Formik and JSX.  It uses a create-react-app and has divs that have conditional elements to show erros if certain criteria are not met.  Formik will import but you may need to install Formik to use the library and functionality when running the app via npm. 
