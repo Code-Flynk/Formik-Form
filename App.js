@@ -49,7 +49,7 @@ function App() {
           onChange={formik.handleChange} value={formik.values.password} />
         <br />
         {formik.errors.password ? (
-          <div id="passWordError" style={{ color: "red" }}>
+          <div id="pswError" style={{ color: "red" }}>
             {formik.errors.password}
           </div>
         ) : null}
