@@ -4,7 +4,6 @@ Future Improvements:
 This form is a demonstration using one of the largest libraries for forms via Formik.  Future improvements will be to utilize further Formik features through more extensive applications into web-based forms for capturing input user data and seemless user interfaces.
 
 To Run:
-
 Copy and Run the application-
 NPM Install, including imports
 NPM Start to run
